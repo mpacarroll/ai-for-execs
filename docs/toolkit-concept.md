@@ -5,12 +5,15 @@ home of the AI adoption skills. This is a separate and later product idea. Nothi
 has been built, and the open questions below are not open questions about the seven
 published skills._
 
-⚠️ **Two things in the original text were wrong and are corrected here.** It described the
-repository as **Private** when it is and was **public**, and it assigned the work to the
-**Mick Cairn** brand. The published material is **Michael Carroll's**, and a Mick label on
-a public repository holding his material would create exactly the cross-identity link that
-is meant to stay closed. If this toolkit is ever built and it genuinely belongs to Mick, it
-needs its own repository rather than this one.
+⚠️ **One thing in the original text was wrong and is corrected here.** It described the
+repository as **Private** when it is and was **public**. A document that misstates its own
+repository's visibility is how material gets published that was written as though it would
+not be.
+
+**Identity: Mick Cairn**, per the operator's ruling on 2026-07-31. This repository is
+marketing for Mick. That is a firewall constraint as much as a branding one: nothing here
+may link to or from a Michael Carroll property, so the published skills carry no source
+citation even though one exists privately.
 
 ## The concept
 
@@ -61,7 +64,7 @@ what is already being done.
   generation for `mick-services`.
 - **Format?** Claude Code skills and subagents, portable prompt packs, or both.
 
-_Resolved: the repository is public, and it carries Michael Carroll's identity._
+_Resolved: the repository is public, and it carries Mick Cairn's identity._
 
 ## Suggested layout, if built
 

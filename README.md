@@ -6,6 +6,10 @@ step you can actually run, plus the refusals that matter as much as the steps.
 Start at [`skills/01-pick-the-first-task.md`](skills/01-pick-the-first-task.md) and work
 down. They are ordered because the order is the method.
 
+I'm Mick. I build small AI tools that do one job properly, and this is the version of that
+discipline for people deciding where AI goes in an organization rather than writing the
+prompts themselves. No hype, no course, nothing to buy here.
+
 ## The skills
 
 | # | Skill | The rule it carries |
@@ -18,15 +22,7 @@ down. They are ordered because the order is the method.
 | 6 | [Widen one axis](skills/06-widen-one-axis.md) | Volume, autonomy, scope. Pick one. |
 | 7 | [What to refuse](skills/07-what-to-refuse.md) | The list that makes the other six credible. |
 
-## Where this came from
-
-These are the public expression of a longer argument published at
-[michaelcarroll.studio](https://michaelcarroll.studio). Every skill traces to a section of
-that document, and the derivation runs one way only: the document feeds the skills, never
-the reverse. If a skill needs a claim the document does not make, the document gets the
-argument first or the claim does not ship.
-
-## Constraints these were written under
+## How these were written
 
 - General principle and public sources only. No internal systems, no vendor names, no
   metrics or anecdotes traceable to any specific organization.
@@ -35,9 +31,13 @@ argument first or the claim does not ship.
 - House style: no em dashes, no exclamation points, no emojis, acronyms expanded on first
   use.
 
+## More
+
+Everything else I build and give away is on the [hub](https://mpacarroll.github.io/ai-mick/).
+
 ## The toolkit concept
 
 A separate and later idea, a callable skills and agents toolkit, is written up in
 [`docs/toolkit-concept.md`](docs/toolkit-concept.md). It is unbuilt. It shares a name with
-this repository and nothing else, and the open questions there are not open questions
-about the material above.
+this repository and nothing else, and the open questions there are not open questions about
+the material above.

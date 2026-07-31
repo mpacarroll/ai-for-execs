@@ -1,42 +1,43 @@
-# ai-for-execs
+# AI adoption, for executives
 
-A **callable skills + agents** toolkit that supercharges an executive's workspace — you invoke a skill and it does real work (reconcile a statement, brief you for a meeting, monitor a portfolio). Private. Part of the **Mick** brand (AI product).
+How organizations adopt AI without it quietly failing. Seven one-page skills, each one a
+step you can actually run, plus the refusals that matter as much as the steps.
 
-> **New session starting here:** this README is your orientation. The full brainstorm seed lives in `hq/notes/ai-for-execs-brainstorm.md`. Read that first, then pick the first skill to build.
+Start at [`skills/01-pick-the-first-task.md`](skills/01-pick-the-first-task.md) and work
+down. They are ordered because the order is the method.
 
-## The concept
-Two layers:
-- **Skills** — focused, reusable capabilities (a prompt + method + maybe a small tool). Composable.
-- **Agents** — orchestrators that chain skills to complete a bigger job.
+## The skills
 
-Design principle (locked): **build our own exec operating-system concept — not a clone of anyone's "second brain."** Original framing, our opinion baked in.
+| # | Skill | The rule it carries |
+|---|---|---|
+| 1 | [Pick the first task](skills/01-pick-the-first-task.md) | Start where being wrong is cheap and being right is visible. Not where the value is. |
+| 2 | [Define correct first](skills/02-define-correct-first.md) | Three questions, answered before anything gets built. |
+| 3 | [The smallest judgeable thing](skills/03-smallest-judgeable-thing.md) | Build what can be judged, not what can be demoed. |
+| 4 | [Measure the quiet failure](skills/04-measure-the-quiet-failure.md) | The confidently wrong rate is the number nobody reports. |
+| 5 | [Make review real](skills/05-make-review-real.md) | A human step that cannot say no is not a review. |
+| 6 | [Widen one axis](skills/06-widen-one-axis.md) | Volume, autonomy, scope. Pick one. |
+| 7 | [What to refuse](skills/07-what-to-refuse.md) | The list that makes the other six credible. |
 
-## Starter skill list (react: keep / cut / add)
-**Money & ops:** receipt/statement reconciler · renewal watchdog · portfolio monitor · KPI/P&L snapshot
-**Attention & decisions:** inbox triage · daily brief · decision-memo drafter · decision journal
-**Leverage & comms:** meeting prep · weekly review · content repurposer · market/competitor scan
+## Where this came from
 
-## Starter agents
-- **Finance agent** — reconciler + renewal watchdog + P&L snapshot
-- **Chief of staff agent** — inbox triage + daily brief + weekly review
-- **Comms agent** — decision memo + repurposer + meeting prep
-- **Ops/portfolio agent** — portfolio monitor + KPI snapshot
+These are the public expression of a longer argument published at
+[michaelcarroll.studio](https://michaelcarroll.studio). Every skill traces to a section of
+that document, and the derivation runs one way only: the document feeds the skills, never
+the reverse. If a skill needs a claim the document does not make, the document gets the
+argument first or the claim does not ship.
 
-## The "north star" first skill
-The **receipt/statement reconciler** — because it's literally the manual work already done by hand in the HQ finance sweep. Every time we do something by hand in this workspace, it should become a callable skill here. The toolkit writes its own spec from what we already do.
+## Constraints these were written under
 
-## Open questions (decide before building)
-- **Who exactly?** founders · corporate VPs+ · solo operators
-- **Revenue shape?** paid skill/agent pack · toolkit subscription · lead-gen for `mick-services`
-- **Public or private?** polished product vs. private edge you use + sell 1:1
-- **Format?** Claude Code skills/subagents · portable prompt packs · both
+- General principle and public sources only. No internal systems, no vendor names, no
+  metrics or anecdotes traceable to any specific organization.
+- Non-finance worked examples only: healthcare operations, government, legal, energy,
+  logistics, education, manufacturing. Insurance is a financial product and stays out.
+- House style: no em dashes, no exclamation points, no emojis, acronyms expanded on first
+  use.
 
-## Suggested repo layout (once building)
-```
-skills/     one folder per skill (SKILL.md + any tool)
-agents/     orchestrators that call skills
-docs/       concept, decisions, revenue model
-```
+## The toolkit concept
 
-## Boundaries
-Mick brand rules apply (non-finance clients, employer never named). Tracked on the board in `hq/REVENUE-STREAMS.md` under the `ai-for-execs` row (status: ideation).
+A separate and later idea, a callable skills and agents toolkit, is written up in
+[`docs/toolkit-concept.md`](docs/toolkit-concept.md). It is unbuilt. It shares a name with
+this repository and nothing else, and the open questions there are not open questions
+about the material above.

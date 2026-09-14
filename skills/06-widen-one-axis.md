@@ -21,3 +21,11 @@ celebrated success is the one that sets a program back a year, because it spends
 credibility rather than budget.
 
 One axis. Measure. Then the next.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

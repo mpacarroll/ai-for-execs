@@ -29,3 +29,11 @@ Every experiment gets a written pass condition before it runs, or it does not ru
 The loudest internal advocate is a genuine asset and a poor prioritization function.
 Their energy is fuel; the sequence comes from skills 1 and 2, which do not care who is
 excited.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

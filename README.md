@@ -20,11 +20,15 @@ down. They are ordered because the order is the method.
 
 ## Where this came from
 
-These are the public expression of a longer argument published at
-[michaelcarroll.studio](https://michaelcarroll.studio). Every skill traces to a section of
-that document, and the derivation runs one way only: the document feeds the skills, never
-the reverse. If a skill needs a claim the document does not make, the document gets the
-argument first or the claim does not ship.
+These are the public expression of a longer argument,
+[sequencing AI adoption in a regulated organization](https://michaelcarroll.studio/adoption).
+Every skill traces to a section of that document, and the derivation runs one way only: the
+document feeds the skills, never the reverse. If a skill needs a claim the document does not
+make, the document gets the argument first or the claim does not ship.
+
+If you would rather fill something in than read something, the same argument compresses to
+[one page of questions](https://michaelcarroll.studio/evaluation-plan) to answer before you
+build. Free, and nothing to sign up for.
 
 ## Constraints these were written under
 

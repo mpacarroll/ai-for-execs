@@ -29,3 +29,11 @@ at risk? If the answer is no, it is not a first task. Pick again.
 Starting with the highest-value process, because that is where the money is. Highest
 value means highest cost of being wrong, and at the start you have no evidence that
 anything works. Value is what the third task is for.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

@@ -28,3 +28,11 @@ The system has to be uncertain out loud:
 Watch a real reviewer for twenty minutes. If they are approving items faster than they
 could possibly be checking them, the control is fictional, and the fix is in the system's
 design, not in telling the reviewer to be more careful.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

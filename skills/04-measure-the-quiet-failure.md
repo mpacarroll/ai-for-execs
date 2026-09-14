@@ -25,3 +25,11 @@ then it has been trusted.
 Set the threshold for "good enough to widen" before you see the results. Deciding what
 counts as success after you know the score is how programs talk themselves into
 shipping things they should not.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

@@ -33,3 +33,11 @@ The task is not ready, and discovering that in a meeting costs an hour. Discover
 after two months of building costs the two months and some of the program's
 credibility. Treat the unanswerable task as your most useful early finding, park it, and
 pick one you can specify.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*

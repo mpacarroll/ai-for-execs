@@ -22,3 +22,11 @@ observe. Do every step that has one correct answer in ordinary code that a revie
 read and test. This sounds like an engineering nicety; it is actually the difference
 between failures you can explain and failures you cannot, and explainable failure is
 what keeps a program alive after its first mistake.
+
+---
+
+*One of seven skills on adopting artificial intelligence without it quietly failing. The
+full argument behind them is at
+[michaelcarroll.studio/adoption](https://michaelcarroll.studio/adoption), and the one page
+you can actually fill in is [the evaluation
+plan](https://michaelcarroll.studio/evaluation-plan).*
